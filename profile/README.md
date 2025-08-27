@@ -11,9 +11,8 @@ NAPCORE Task 5.2 develops open-source digital tools for European mobility data s
 We are planning to develop or support development of various types of tools such as:
 
 - **Data Validators** - Validate DATEX II, NeTEx, SIRI, and TN-ITS data
-- **Format Converters** - Convert between APDS, DATEX II, and NeTeX formats
+- **Format Converters** - Convert between APDS, DATEX II, and NeTEx formats
 - **Version Upgrade Tools** - Upgrade data and their schemas from one standard version to another one
-- **Data Browsers** - Explore and visualize transport data
 - **Reference Implementations** - Documentation and examples
 
 All the tools will be publicly presented on NAPCORE Store website.
